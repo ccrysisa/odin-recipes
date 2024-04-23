@@ -1,0 +1,21 @@
+.recipes {
+  font-size: 20px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.description {
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+ul.ingredients {
+  background-color: hsl(120, 73%, 75%);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.steps #random {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(255, 127, 127);
+}
